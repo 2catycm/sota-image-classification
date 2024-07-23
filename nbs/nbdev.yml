@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "sota-image-classification"
+  site-url: "https://2catycm.github.io/sota-image-classification"
+  description: "Research focused repository for you to do experiment with latest best practices rapidly. All you need to do is to try your novel method on the pipeline."
+  repo-branch: main
+  repo-url: "https://github.com/2catycm/sota-image-classification"
